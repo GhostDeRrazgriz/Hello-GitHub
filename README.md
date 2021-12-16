@@ -1,5 +1,5 @@
 # Hello-GitHub
-This is my first push to the Github world, so pull my push so we can commit!
+This is my first push to the Github world. Please pull my push so we can commit!
 I think that's right...
 I'm pretty boring which is fantastic for you as you'll always upstage me. You're welcome!
 I speak English like a true native which is to say very poorly.
